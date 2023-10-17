@@ -1,1 +1,14 @@
-# CS-360
+# CS-360 Mobile Architecture and Programming
+
+# Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+The application I designed was Option 1, the Inventory app, it was designed to authenticate the user by a password and email. After the user signed in, they were able to enable SMS. They were able to add, remove, increase, decrease items items addded into a SQLite Database. The application can send an alert to the user by SMS if the quantity reasches 0 and the in app indicator turned red. Finally the layout was set up as a Grid view per rubric.
+# What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+The application uses four screens including a login, gride view display of inventory, setting and notification, and an add items flow. To keep UI development clean for the user, I kept the screens in a variety of colors of greens, purples, and blues to stay within the theme of the app. 
+# How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
+I had many experiences before that brought ambitious thoughts into designing this application to life for this class. Even though it was simple but unqiue, I wanted it to be mine. I wanted it to be easy for someone to pick up and was able to use if it ever went into production.
+# How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+To ensure that my code was function and running I tested on different emulated devices in the Android IDK with different screen sizes such as different pixel devices and different tables. I test my code over 100 times and debug all the time, every time you add a new feature to make sure you don't "break" your code.
+# Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+It is known for me not to have many challenges, but when I did see a challenge I overcame it by taking a look back and seeing if I could solve it within 30 min. If I didn't I got up and walked away and came back with fresh eyes and I saw it right away.
+# In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+I enjoyed creating the log in authentication screen. I’ve enjoyed the most working with SQL and its different flavors such as mySQL and noSQL and look forward to pairing different programming languages with database integration. Next, I think everyone liked my icons I used for the interface for adding items as it made it more unique to the user. MY buttons were so easy to see and use.
